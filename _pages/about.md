@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Assistant Professor (on leave)
+subtitle: PhD Student at Pitt, Faculty (on leave) at University of the Philippines
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>

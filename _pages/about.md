@@ -5,11 +5,13 @@ permalink: /
 subtitle: English PhD Student at the University of Pittsburgh
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: social_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>fmq1@pitt.edu</p>
+    <p>E-mails</p>
+    <p><a href="mailto:fmq1@pitt.edu">fmq1@pitt.edu</a></p>
+    <p><a href="mailto:fmquina@up.edu.ph">fmquina@up.edu.ph</a></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

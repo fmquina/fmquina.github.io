@@ -5,7 +5,7 @@ permalink: /
 subtitle: English PhD Student at the University of Pittsburgh
 
 profile:
-  align: left
+  align: right
   image: social_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: English PhD Student at the University of Pittsburgh
+subtitle: English PhD Student at the University of Pittsburgh<br />Faculty (on leave) at University of the Philippines
 
 profile:
   align: right
